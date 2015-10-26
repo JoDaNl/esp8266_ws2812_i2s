@@ -1,7 +1,4 @@
-// ws2812.h
-// This file MUST be present in your project folder, i.e. where
-// the .ino file is located...it's used by the ws2812_lib 
-// 
+// ws2812.h 
 
 #ifndef __WS2812_H__
 #define __WS2812_H__
