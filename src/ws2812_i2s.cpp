@@ -14,7 +14,7 @@
 // output-pin. This pin in it's turn is shared with GPIO3 & RXD0
 //
 
-#include <arduino.h>
+#include <Arduino.h>
 #include <stdint.h>
 #include "ws2812_i2s.h"
 #include "../include/ws2812_defs.h"
